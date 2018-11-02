@@ -13,12 +13,13 @@ Dependencies: make sure java and R are installed on your machine.
 
 Packages needed in R:
 
-dplyr
-tidyr
-recommenderlab
-Rserve
-Matrix
-stringr
+1. dplyr
+2. tidyr
+3. recommenderlab
+4. Rserve
+5. Matrix
+6. stringr
+
 note: 5% users of original dataset are used due to computational limitation of machine.
 
 This was simple recommmender based on concept of user based collaborative filtering.
